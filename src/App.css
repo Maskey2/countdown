@@ -1,0 +1,27 @@
+.form-inline {
+  align-items: center;
+  width: 100%;
+}
+.App{
+  text-align: center;
+  font-size:35px;
+  margin-top: 20px;
+  align-self: center;
+  align-content: center;
+  align-items: center;
+}
+.title{
+  font-size: 45px;
+}
+.clock-hours, .clock-minutes, .clock-seconds, .clock-days{
+  display:inline;
+  margin: 10px;
+}
+.Deadline-input{
+  font-size: 25px;
+  margin: 5px;
+}
+.center{
+  align-content: center;
+  justify-content: center;
+}
